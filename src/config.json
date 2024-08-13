@@ -1,0 +1,9 @@
+{
+    "APP_NAME": "MurAI - Multimodal Mural Assistant",
+    "WINDOW_WIDTH": 1200,
+    "WINDOW_HEIGHT": 800,
+    "ASSISTANT_NAME": "MurAI",
+    "ASSISTANT_COLOR": "#ec1b56",
+    "MODEL_NAME": "llava:13b",
+    "API_URL": "http://localhost:11434/api/generate"
+}
