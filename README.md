@@ -1,6 +1,8 @@
 # MurAI - Multimodal Mural Assistant
 Multimodal LLM Mural Assistant with Ollama
 
+![Example screenshot](assets/ExampleScreenshot.png)
+
 ## About the Project
 MurAI is a multimodal LLM assistant designed to analyze and extract information from Mural.co screenshots. This tool is meant to help users quickly understand and interact with Mural content.
 
