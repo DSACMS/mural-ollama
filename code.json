@@ -1,10 +1,53 @@
 {
-    "project_type": "Apps",
-    "user_input": "Yes",
-    "project_fisma_level": "Moderate",
-    "group": "CMS/OA/DSAC",
-    "subset_in_healthcare": "Operational",
-    "user_type": "Government",
-    "repository_host": "Github.com",
-    "maturity_model_tier": "1"
+  "name": "mural-ollama",
+  "description": "Multimodal LLM Mural Assistant with Ollama",
+  "longDescription": "",
+  "status": "",
+  "permissions": {
+    "license": [
+      {
+        "name": "",
+        "URL": ""
+      }
+    ],
+    "usageType": "",
+    "exemptionText": ""
+  },
+  "organization": "",
+  "repositoryURL": "https://github.com/DSACMS/mural-ollama",
+  "vcs": "git",
+  "laborHours": 3082,
+  "platforms": [],
+  "categories": [],
+  "softwareType": "",
+  "languages": [
+    "Python"
+  ],
+  "maintenance": "",
+  "date": {
+    "created": "2024-08-12T21:12:38Z",
+    "lastModified": "2025-02-12T18:07:56Z",
+    "metaDataLastUpdated": "2025-02-12T18:09:10.994Z"
+  },
+  "tags": [],
+  "contact": {
+    "email": "",
+    "name": ""
+  },
+  "localisation": false,
+  "repositoryType": "",
+  "userInput": false,
+  "fismaLevel": "",
+  "group": "CMS/OA/DSAC",
+  "subsetInHealthcare": [],
+  "userType": [],
+  "repositoryHost": "github",
+  "maturityModelTier": 0,
+  "project_type": "Apps",
+  "user_input": "Yes",
+  "project_fisma_level": "Moderate",
+  "subset_in_healthcare": "Operational",
+  "user_type": "Government",
+  "repository_host": "Github.com",
+  "maturity_model_tier": "1"
 }
