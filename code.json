@@ -18,7 +18,7 @@
   "vcs": "git",
   "laborHours": 3082,
   "platforms": ["mac"],
-  "categories": ["data-analytics", ],
+  "categories": ["data-analytics"],
   "softwareType": "standalone/desktop",
   "languages": [
     "Python"
