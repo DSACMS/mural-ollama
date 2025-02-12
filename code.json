@@ -1,53 +1,46 @@
 {
   "name": "mural-ollama",
   "description": "Multimodal LLM Mural Assistant with Ollama",
-  "longDescription": "",
-  "status": "",
+  "longDescription": "MurAI is a multimodal LLM assistant designed to analyze and extract information from Mural.co screenshots. This tool is meant to help users quickly understand and interact with Mural content.",
+  "status": "Production",
   "permissions": {
     "license": [
       {
-        "name": "",
-        "URL": ""
+        "name": "CC0 1.0 Universal",
+        "URL": "https://github.com/DSACMS/mural-ollama/blob/main/LICENSE"
       }
     ],
     "usageType": "",
     "exemptionText": ""
   },
-  "organization": "",
+  "organization": "openSource",
   "repositoryURL": "https://github.com/DSACMS/mural-ollama",
   "vcs": "git",
   "laborHours": 3082,
-  "platforms": [],
-  "categories": [],
-  "softwareType": "",
+  "platforms": ["mac"],
+  "categories": ["data-analytics", ],
+  "softwareType": "standalone/desktop",
   "languages": [
     "Python"
   ],
-  "maintenance": "",
+  "maintenance": "internal",
   "date": {
     "created": "2024-08-12T21:12:38Z",
     "lastModified": "2025-02-12T18:07:56Z",
     "metaDataLastUpdated": "2025-02-12T18:09:10.994Z"
   },
-  "tags": [],
+  "tags": ["AI", "Mural", "oLlama"],
   "contact": {
-    "email": "",
-    "name": ""
+    "email": "opensource@cms.hhs.gov",
+    "name": "CMS Open Source Team"
   },
   "localisation": false,
-  "repositoryType": "",
+  "repositoryType": "Application",
   "userInput": false,
-  "fismaLevel": "",
+  "fismaLevel": "Low",
   "group": "CMS/OA/DSAC",
-  "subsetInHealthcare": [],
-  "userType": [],
-  "repositoryHost": "github",
-  "maturityModelTier": 0,
-  "project_type": "Apps",
-  "user_input": "Yes",
-  "project_fisma_level": "Moderate",
-  "subset_in_healthcare": "Operational",
-  "user_type": "Government",
-  "repository_host": "Github.com",
-  "maturity_model_tier": "1"
+  "subsetInHealthcare": ["Operational"],
+  "userType": ["Government"],
+  "repositoryHost": "github.com/DSACMS",
+  "maturityModelTier": 1,
 }
