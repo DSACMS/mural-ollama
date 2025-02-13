@@ -1,10 +1,46 @@
 {
-    "project_type": "Apps",
-    "user_input": "Yes",
-    "project_fisma_level": "Moderate",
-    "group": "CMS/OA/DSAC",
-    "subset_in_healthcare": "Operational",
-    "user_type": "Government",
-    "repository_host": "Github.com",
-    "maturity_model_tier": "1"
+  "name": "mural-ollama",
+  "description": "Multimodal LLM Mural Assistant with Ollama",
+  "longDescription": "MurAI is a multimodal LLM assistant designed to analyze and extract information from Mural.co screenshots. This tool is meant to help users quickly understand and interact with Mural content.",
+  "status": "Production",
+  "permissions": {
+    "license": [
+      {
+        "name": "CC0 1.0 Universal",
+        "URL": "https://github.com/DSACMS/mural-ollama/blob/main/LICENSE"
+      }
+    ],
+    "usageType": "",
+    "exemptionText": ""
+  },
+  "organization": "openSource",
+  "repositoryURL": "https://github.com/DSACMS/mural-ollama",
+  "vcs": "git",
+  "laborHours": 3082,
+  "platforms": ["mac"],
+  "categories": ["data-analytics"],
+  "softwareType": "standalone/desktop",
+  "languages": [
+    "Python"
+  ],
+  "maintenance": "internal",
+  "date": {
+    "created": "2024-08-12T21:12:38Z",
+    "lastModified": "2025-02-12T18:07:56Z",
+    "metaDataLastUpdated": "2025-02-12T18:09:10.994Z"
+  },
+  "tags": ["AI", "Mural", "oLlama"],
+  "contact": {
+    "email": "opensource@cms.hhs.gov",
+    "name": "CMS Open Source Team"
+  },
+  "localisation": false,
+  "repositoryType": "Application",
+  "userInput": false,
+  "fismaLevel": "Low",
+  "group": "CMS/OA/DSAC",
+  "subsetInHealthcare": ["Operational"],
+  "userType": ["Government"],
+  "repositoryHost": "github.com/DSACMS",
+  "maturityModelTier": 1,
 }
