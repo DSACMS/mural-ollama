@@ -5,16 +5,16 @@
   "longDescription": "MurAI is a multimodal LLM assistant designed to analyze and extract information from Mural.co screenshots. This tool is meant to help users quickly understand and interact with Mural content.",
   "status": "Production",
   "permissions": {
-    "license": [
+    "licenses": [
       {
-        "name": "CC0 1.0 Universal",
+        "name": "CC0-1.0",
         "URL": "https://github.com/DSACMS/mural-ollama/blob/main/LICENSE"
       }
     ],
-    "usageType": "",
+    "usageType": ["openSource"],
     "exemptionText": ""
   },
-  "organization": "openSource",
+  "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/DSACMS/mural-ollama",
   "repositoryHost": "github.com/DSACMS",
   "repositoryVisibility": "public",
@@ -68,17 +68,17 @@
   "feedbackMechanism": "https://github.com/DSACMS/mural-ollama/issues",
   "AIUseCaseID": "0",
   "localisation": false,
-  "repositoryType": "Application",
+  "repositoryType": "application",
   "userInput": false,
-  "fismaLevel": "Low",
+  "fismaLevel": "low",
   "group": "CMS/OA/DSAC",
   "projects": [],
   "systems": [],
   "subsetInHealthcare": [
-    "Operational"
+    "operational"
   ],
   "userType": [
-    "Government"
+    "government"
   ],
   "maturityModelTier": 1
 }
